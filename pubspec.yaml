@@ -4,7 +4,8 @@ author: Vadim Tsushko <vadimtsushko@gmail.com>
 description: Query builder for mongo_dart and objectory
 homepage: https://github.com/vadimtsushko/mongo_dart_query
 dependencies:
-  bson: any
+  bson:
+    git: https://github.com/SonarDesignInc/bson
 dev_dependencies:
   browser: any
   unittest: any
