@@ -5,6 +5,7 @@ description: Query builder for mongo_dart and objectory
 homepage: https://github.com/vadimtsushko/mongo_dart_query
 dependencies:
   bson: '>=0.1.7 <2.0.0'
+    git: https://github.com/SonarDesignInc/bson
 dev_dependencies:
   browser: any
   unittest: any
